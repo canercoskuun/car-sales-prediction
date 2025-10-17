@@ -1,6 +1,4 @@
-***Otomotiv Satış Tahmini: Geleceği Şekillendiren Analizler***
-
-
+#Otomotiv Satış Tahmini: Geleceği Şekillendiren Analizler
 **Proje Hakkında**
 Bu proje, otomotiv sektöründeki gelecekteki satışları yüksek doğrulukla tahmin etmek için tasarlanmış bir makine öğrenmesi modelidir. Yanlış tahminlerin yol açabileceği kaynak israfını veya fırsat kaçırılmasını engellemeyi ve işletmelerin üretim, pazarlama ve stok yönetimi gibi kritik kararları daha bilinçli ve veri odaklı almasını sağlayarak rekabet avantajı yaratmayı hedefler. Geliştirilen model, geçmiş satış verilerini ve ilişkili ekonomik göstergeleri analiz ederek gelecekteki satış eğilimlerini öngörür.
 

@@ -52,7 +52,7 @@ Modelin temeli, "Veri-Seti.xlsx" dosyasından elde edilen kapsamlı tarihsel oto
 
 Tahmin modelini harici sistemlerin kullanımına sunmak için bir Web API'si geliştirilmiştir.
 
-Model Serileştirme: Eğitilen Prophet modeli, kolay yükleme ve kullanım için serialized_model.json dosyasına kaydedilmiştir.
+**Model Serileştirme**: Eğitilen Prophet modeli, kolay yükleme ve kullanım için serialized_model.json dosyasına kaydedilmiştir.
 
 **Web API**: Flask mikro çerçevesi kullanılarak basit ve etkili bir POST API'si (app.py) geliştirilmiştir.
 

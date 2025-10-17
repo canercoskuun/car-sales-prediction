@@ -1,10 +1,10 @@
 # Otomotiv Satış Tahmini: Geleceği Şekillendiren Analizler
-**Proje Hakkında**
+## Proje Hakkında
 Bu proje, otomotiv sektöründeki gelecekteki satışları yüksek doğrulukla tahmin etmek için tasarlanmış bir makine öğrenmesi modelidir. Yanlış tahminlerin yol açabileceği kaynak israfını veya fırsat kaçırılmasını engellemeyi ve işletmelerin üretim, pazarlama ve stok yönetimi gibi kritik kararları daha bilinçli ve veri odaklı almasını sağlayarak rekabet avantajı yaratmayı hedefler. Geliştirilen model, geçmiş satış verilerini ve ilişkili ekonomik göstergeleri analiz ederek gelecekteki satış eğilimlerini öngörür.
 
 
 
-**Temel Hedefler**
+### Temel Hedefler*
 
 
 Tarihsel verileri kullanarak otomotiv satışlarını yüksek doğrulukla tahmin etmek.
@@ -13,7 +13,7 @@ Tarihsel verileri kullanarak otomotiv satışlarını yüksek doğrulukla tahmin
 
 Üretim, envanter ve pazarlama stratejilerini optimize etmek için sağlam bir temel sunmak.
 
-**Kullanılan Teknolojiler**
+## Kullanılan Teknolojiler
 
 
 Modelin geliştirilmesi, dağıtılması ve servis edilmesi aşamalarında aşağıdaki teknolojiler kullanılmıştır:
@@ -55,7 +55,7 @@ Model Eğitimi: Dönüştürülmüş verilerle Prophet modeli eğitilmiş; bu a�
 
 Model Doğrulama: Eğitilmiş modelin ürettiği tahminler, gerçek verilerle (ground truth) karşılaştırılarak modelin güvenilirliği ve doğruluğu değerlendirilmiştir.
 
-**API ve Servis**
+## API ve Servis 
 
 
 Tahmin modelini harici sistemlerin kullanımına sunmak için bir Web API'si geliştirilmiştir.

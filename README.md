@@ -7,6 +7,8 @@ Bu proje, otomotiv sektöründeki gelecekteki satışları yüksek doğrulukla t
 
 
 **Temel Hedefler**
+
+
 Tarihsel verileri kullanarak otomotiv satışlarını yüksek doğrulukla tahmin etmek.
 
 İşletmelerin daha bilinçli kararlar almasını sağlayarak rekabet avantajı yaratmak.
@@ -14,6 +16,8 @@ Tarihsel verileri kullanarak otomotiv satışlarını yüksek doğrulukla tahmin
 Üretim, envanter ve pazarlama stratejilerini optimize etmek için sağlam bir temel sunmak.
 
 **Kullanılan Teknolojiler**
+
+
 Modelin geliştirilmesi, dağıtılması ve servis edilmesi aşamalarında aşağıdaki teknolojiler kullanılmıştır:
 
 
@@ -54,6 +58,8 @@ Model Eğitimi: Dönüştürülmüş verilerle Prophet modeli eğitilmiş; bu a�
 Model Doğrulama: Eğitilmiş modelin ürettiği tahminler, gerçek verilerle (ground truth) karşılaştırılarak modelin güvenilirliği ve doğruluğu değerlendirilmiştir.
 
 **API ve Servis**
+
+
 Tahmin modelini harici sistemlerin kullanımına sunmak için bir Web API'si geliştirilmiştir.
 
 

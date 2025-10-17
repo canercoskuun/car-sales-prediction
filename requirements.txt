@@ -1,0 +1,6 @@
+flask
+prophet
+pandas
+numpy
+pystan
+plotly
